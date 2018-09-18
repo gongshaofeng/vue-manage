@@ -56,6 +56,10 @@ export default {
                             },
                             { index: 'upload', title: '文件上传'}
                         ]},
+                { icon: 'el-icon-message', index: '2', title: '数据管理',subs: [
+                    { index: 'userlist', title: '用户列表'},
+                    { index: 'shoplist', title: '商家管理'},
+                ]},
                 { icon: 'el-icon-star-on', index: 'charts', title: 'schart图表'},
                 { icon: 'el-icon-rank', index: 'drag', title: '拖拽列表'},
                 { icon: 'el-icon-warning', index: 'permission', title: '权限测试'},

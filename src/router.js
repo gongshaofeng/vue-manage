@@ -15,6 +15,9 @@ import login from './components/page/Login.vue'
 import error from './components/page/404.vue'
 import err from './components/page/403.vue'
 import back from './components/page/Allback.vue'
+import manage from './components/page/Manage.vue'
+import userlist from './components/page/userList.vue'
+import shoplist from './components/page/shopList.vue'
 
 
 
@@ -35,12 +38,17 @@ export default new Router({
       {path:'/upload',component:Upload,meta:{title:"文件上传"}},
       {path:'/charts',component:BaseCharts,meta:{title:"schart图表"}},
       {path:'/drag',component:DragList,meta:{title:"拖拽列表"}},
-      {path:'/permission',component:Permission,meta:{title:"权限测试"}}
+      {path:'/permission',component:Permission,meta:{title:"权限测试"}},
+      { path: '/manage', component:manage,meta:{title:"项目编辑"}},
+      { path: '/userlist', component:userlist,meta:{title:"用户列表"}},
+      { path: '/shoplist', component:shoplist,meta:{title:"商家列表"}},
+
     ]},
     { path: '/login',component:login,meta:{title:"登录页"}},
     {path: '/403',component:err,meta:{title:"403页面"}},
     {path:'/404',component:error,meta:{title:"404页面"}},
     { path: '*', redirect: '/404'},
     { path: '/back', component:back}
+
   ]
 })

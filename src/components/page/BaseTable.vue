@@ -98,14 +98,6 @@ export default {
         search:
             function (){
                 this.getProlist();
-            },
-        add:
-            function (){
-                // this.$router.replace({
-                //     path: '/login'
-                // })
-                this.getProlist();
-                console.log("执行了")
             }
     },
     updated(){
@@ -122,11 +114,11 @@ export default {
                 this.gettableDate(),    //手动检测数据变化
                 this.deleteDate(index)
             })
-            .catch(res =>{})
+            .catch(err =>{console.log(err)})
 
         },
         deleteDate(index){
-            console.log(index)
+            // console.log(index)
             let res = this.tableData[index].id; // 要删除的id
             console.log(res)
             this.$axios({
@@ -209,7 +201,6 @@ export default {
                         alert("失败")
                     }
                 })
-                console.log("获取了")
         },
         // json-server 中的数据
         gettableDate(){
@@ -233,6 +224,7 @@ export default {
         // 项目数据/编辑
         handleEdit(index, row) {
             console.log(index, row);
+            this.$router.push('/manage?id='+index)
         },
 
     }

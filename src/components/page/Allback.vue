@@ -7,7 +7,7 @@
 export default {
     data(){
         this.$router.replace({
-            path: '/table',
+            // path: '/shoplist',
             // name: 'basetable'
         })
         return {

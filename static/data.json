@@ -18,23 +18,576 @@
     {
       "pid": "2",
       "pname": "2",
-      "addtime": "2018/9/17 上午11:56:13",
+      "addtime": "2018/9/17 下午7:52:57",
       "adddesc": "2",
-      "id": "Jn1IxGh"
+      "id": "0EXvd51"
+    },
+    {
+      "pid": "3",
+      "pname": "3",
+      "addtime": "2018/9/17 下午7:52:57",
+      "adddesc": "3",
+      "id": "EBJ_E5j"
+    },
+    {
+      "pid": "4",
+      "pname": "4",
+      "addtime": "2018/9/17 下午7:52:57",
+      "adddesc": "4",
+      "id": "ZMAWW96"
+    },
+    {
+      "pid": "5",
+      "pname": "5",
+      "addtime": "2018/9/17 下午7:52:57",
+      "adddesc": "5",
+      "id": "Ho1oWSJ"
+    },
+    {
+      "pid": "6",
+      "pname": "6",
+      "addtime": "2018/9/17 下午7:52:57",
+      "adddesc": "6",
+      "id": "ReEOnxb"
+    },
+    {
+      "pid": "7",
+      "pname": "7",
+      "addtime": "2018/9/17 下午7:52:57",
+      "adddesc": "7",
+      "id": "e9DjTos"
+    },
+    {
+      "pid": "8",
+      "pname": "8",
+      "addtime": "2018/9/17 下午7:52:57",
+      "adddesc": "8",
+      "id": "iEb2IYT"
+    },
+    {
+      "pid": "9",
+      "pname": "9",
+      "addtime": "2018/9/17 下午7:52:57",
+      "adddesc": "9",
+      "id": "0P0AEVw"
+    },
+    {
+      "pid": "10",
+      "pname": "10",
+      "addtime": "2018/9/17 下午7:52:57",
+      "adddesc": "10",
+      "id": "uB6loWG"
     }
   ],
   "rows": [
     {
       "id": "1",
-      "name": "dongdong"
+      "title": "图片一",
+      "img_url": "/assets/img/banner1.png"
     },
     {
       "id": "2",
-      "name": "zhangzhang"
+      "title": "图片二",
+      "img_url": "/assets/img/banner3.png"
     },
     {
       "id": "3",
-      "name": "wawa"
+      "title": "图片三",
+      "img_url": "/assets/img/banner3.png"
+    },
+    {
+      "id": "4",
+      "title": "图片四",
+      "img_url": "/assets/img/banner4.png"
+    }
+  ],
+  "userlist": [
+    {
+      "registe_time": "2016-05-01",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-01",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-01",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-01",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-01",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-01",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-01",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-01",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-01",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-01",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-02",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-02",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-02",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-02",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-02",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-02",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-02",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-03",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-03",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-03",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-03",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-03",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-03",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-03",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-03",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-03",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-03",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-04",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-04",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-04",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-04",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-04",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-04",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-04",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-04",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-04",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-04",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-05",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-05",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-05",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-05",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-05",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-05",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-05",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-05",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-05",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-05",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-05",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-06",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-06",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-06",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-06",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-06",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-06",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-06",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-06",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-06",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-06",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "registe_time": "2016-05-06",
+      "username": "王小虎",
+      "city": "上海市普陀区金沙江路 1518 弄"
+    }
+  ],
+  "shoplist": [
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "1",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "2",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "3",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "4",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "5",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "6",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "7",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "8",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "9",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "10",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "11",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "12",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "13",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "14",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "15",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "16",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "17",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "18",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
+    },
+    {
+      "name": "店铺名称",
+      "address": "店铺地址",
+      "description": "店铺介绍",
+      "id": "19",
+      "phone": "联系电话",
+      "rating": "99",
+      "recent_order_num": "销售量",
+      "category": "分类"
     }
   ]
 }
