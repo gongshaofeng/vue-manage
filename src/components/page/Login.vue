@@ -5,7 +5,7 @@
                 <!--  表单数据对象        表单验证规则     注册到$refs对象        表单域标签的宽度-->
             <el-form :model="ruleForm" :rules="rules" ref="ruleForm" label-width="0px" class="demo-ruleForm">
                 <el-form-item prop="username">
-                    <el-input v-model="ruleForm.username" placeholder="报上你的大名"></el-input>
+                    <el-input v-model="ruleForm.username" placeholder="报上你的大名" autofocus></el-input>
                 </el-form-item>
                 <el-form-item prop="password">
                     <el-input v-model="ruleForm.password" type="password" placeholder="大声喊出暗号" @keyup.enter.native="submitForm('ruleForm')"></el-input>
